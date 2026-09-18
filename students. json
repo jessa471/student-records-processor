@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Juan Dela Cruz",
+    "grades": [85, 90, 78, 92]
+  },
+  {
+    "name": "Maria Santos", 
+    "grades": [70, 65, 80, 75]
+  },
+  {
+    "name": "Pedro Reyes",
+    "grades": [60, 55, 70, 68]
+  }
+]
